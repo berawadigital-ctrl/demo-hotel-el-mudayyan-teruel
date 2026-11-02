@@ -1,0 +1,420 @@
+{
+ "url": "file:///tmp/zip-hotel-el-mudayyan-teruel/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué habitaciones tenéis?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Hay 28 habitaciones de dos estilos, mudéjar y modernista: doble estándar (una o dos personas), doble superior (dos adultos o dos adultos con"
+    },
+    {
+     "q": "Viajamos en familia, ¿hay sitio para cuatro?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Sí: las habitaciones familiares están equipadas para tres o cuatro personas, y bajo petición hay quíntuples. Están adaptadas a personas con "
+    },
+    {
+     "q": "¿Qué tienen las habitaciones?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Todas las habitaciones tienen wifi gratis, aire acondicionado, minibar, secador de pelo, TV y baño privado."
+    },
+    {
+     "q": "¿Hay desayuno?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Sí: hay desayuno básico gratis (café y tostada o cruasán) si reservas en su web, por teléfono o por correo."
+    },
+    {
+     "q": "¿Se puede visitar la galería medieval?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Sí: el sótano alberga un conjunto arqueológico del siglo XIV, con un pasadizo que unía la casa del sacerdote con la iglesia del Salvador. El"
+    },
+    {
+     "q": "¿Tenéis tetería?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "El hotel tiene tetería y cafetería, con gran variedad de tés y pastas, y salas privadas para reuniones, eventos y celebraciones."
+    },
+    {
+     "q": "¿Hay aparcamiento cerca?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Su web propone tres opciones: los parkings de la Glorieta y de San Juan (municipales, cubiertos y vigilados) y el de la RENFE (descubierto, "
+    },
+    {
+     "q": "¿Dónde estáis?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Está en la Calle Nueva, 18, 44001 Teruel, en pleno centro histórico, cerca de la Plaza del Torico. Su web indica distancias: Valencia a 140 "
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Puedes reservar en su motor de reservas (botón Reservar), por teléfono en el 978 62 30 42 o por correo. Este asistente no confirma disponibi"
+    },
+    {
+     "q": "¿Podéis confirmarme disponibilidad para mañana?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Puedes reservar en su motor de reservas (botón Reservar), por teléfono en el 978 62 30 42 o por correo. Este asistente no confirma disponibi"
+    },
+    {
+     "q": "¿Cuál es la política de cancelación?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Según su web, se puede cancelar por escrito sin coste con 48 horas de antelación a la fecha de entrada; con menos de 48 horas se cobra una n"
+    },
+    {
+     "q": "¿Cuál es vuestro teléfono?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Recepción: 978 62 30 42. WhatsApp: 628 473 662. Correo: info@elmudayyan.com. Disponibles 24/7. Consultar por WhatsApp →"
+    },
+    {
+     "q": "¿Hacéis excursiones a Albarracín?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Sí: con Excursiones Assafar llevan a Albarracín (a 36 km de Teruel), donde recibe una guía local, y también se puede visitar Mora de Rubielo"
+    },
+    {
+     "q": "¿Cuánto cuesta la noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 978 62 30 42 · +34 628 473 662 · info@elmudayyan.com."
+    },
+    {
+     "q": "¿Tenéis piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 978 62 30 42 · +34 628 473 662 · info@elmudayyan.com."
+    }
+   ],
+   "chips": [
+    "¿Qué habitaciones tenéis?",
+    "¿Hay habitaciones familiares?",
+    "¿Hay desayuno?",
+    "¿Cómo reservo?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Which rooms do you have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "There are 28 rooms in two styles, Mudéjar and Modernist: standard double (one or two guests), superior double (two adults or two adults with"
+    },
+    {
+     "q": "We are a family, is there space for four?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Yes: family rooms are equipped for three or four guests, and rooms for five are available on request. They are adapted for guests with reduc"
+    },
+    {
+     "q": "What do the rooms include?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "All rooms have free wifi, air conditioning, a minibar, a hairdryer, TV and a private bathroom."
+    },
+    {
+     "q": "Is there breakfast?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Yes: there is a free basic breakfast (coffee and toast or a croissant) if you book on their website, by phone or by email."
+    },
+    {
+     "q": "Can I visit the medieval gallery?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Yes: the basement holds a fourteenth-century (XIV) archaeological site, with a passage that linked the priest’s house to the church of El Sa"
+    },
+    {
+     "q": "Do you have a tea room?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "The hotel has a tea room and café with a wide variety of teas and pastries, and private rooms for meetings, events and celebrations."
+    },
+    {
+     "q": "Is there parking nearby?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Their website suggests three options: the Glorieta and San Juan car parks (municipal, covered and supervised) and the RENFE car park (open-a"
+    },
+    {
+     "q": "Where are you?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "It is at Calle Nueva, 18, 44001 Teruel, right in the historic centre, near Plaza del Torico. Their website gives distances: Valencia 140 km,"
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "You can book through their booking engine (Book button), by phone on 978 62 30 42 or by email. This assistant does not confirm availability "
+    },
+    {
+     "q": "Can you confirm availability for tomorrow?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "You can book through their booking engine (Book button), by phone on 978 62 30 42 or by email. This assistant does not confirm availability "
+    },
+    {
+     "q": "What is the cancellation policy?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "According to their website, you can cancel in writing free of charge up to 48 hours before arrival; with less than 48 hours, one night is ch"
+    },
+    {
+     "q": "What is your phone number?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Reception: 978 62 30 42. WhatsApp: 628 473 662. Email: info@elmudayyan.com. Available 24/7. Ask on WhatsApp →"
+    },
+    {
+     "q": "Do you run excursions to Albarracín?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Yes: with Excursiones Assafar they take you to Albarracín (36 km from Teruel), where a local guide meets you, and you can also visit Mora de"
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 978 62 30 42 · +34 628 473 662 · info@elmudayyan.com."
+    },
+    {
+     "q": "Do you have a pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 978 62 30 42 · +34 628 473 662 · info@elmudayyan.com."
+    }
+   ],
+   "chips": [
+    "Which rooms do you have?",
+    "Do you have family rooms?",
+    "Is there breakfast?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Quelles chambres avez-vous ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il y a 28 chambres de deux styles, mudéjar et moderniste : double standard (une ou deux personnes), double supérieure (deux adultes ou deux "
+    },
+    {
+     "q": "Nous voyageons en famille, y a-t-il de la place pour quatre ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Oui : les chambres familiales sont équipées pour trois ou quatre personnes, et des chambres pour cinq sont possibles sur demande. Elles sont"
+    },
+    {
+     "q": "Que comprennent les chambres ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Toutes les chambres ont le wifi gratuit, la climatisation, un minibar, un sèche-cheveux, la TV et une salle de bains privée."
+    },
+    {
+     "q": "Y a-t-il un petit-déjeuner ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Oui : un petit-déjeuner basique est offert (café et tartine ou croissant) si vous réservez sur leur site, par téléphone ou par e-mail."
+    },
+    {
+     "q": "Peut-on visiter la galerie médiévale ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Oui : le sous-sol abrite un ensemble archéologique du XIVe siècle, avec un passage qui reliait la maison du prêtre à l’église du Salvador. L"
+    },
+    {
+     "q": "Avez-vous un salon de thé ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "L’hôtel a un salon de thé et une cafétéria, avec un grand choix de thés et de pâtisseries, et des salles privées pour réunions, événements e"
+    },
+    {
+     "q": "Où se garer ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Leur site propose trois options : les parkings de la Glorieta et de San Juan (municipaux, couverts et surveillés) et celui de la RENFE (à ci"
+    },
+    {
+     "q": "Où êtes-vous ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "L’hôtel se trouve Calle Nueva, 18, 44001 Teruel, en plein centre historique, près de la Plaza del Torico. Leur site indique les distances : "
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver via leur moteur de réservation (bouton Réserver), par téléphone au 978 62 30 42 ou par e-mail. Cet assistant ne confirm"
+    },
+    {
+     "q": "Pouvez-vous me confirmer la disponibilité pour demain ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver via leur moteur de réservation (bouton Réserver), par téléphone au 978 62 30 42 ou par e-mail. Cet assistant ne confirm"
+    },
+    {
+     "q": "Quelle est la politique d’annulation ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Selon leur site, l’annulation par écrit est gratuite jusqu’à 48 heures avant l’arrivée ; à moins de 48 heures, une nuit est facturée (No Sho"
+    },
+    {
+     "q": "Quel est votre numéro de téléphone ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Réception : 978 62 30 42. WhatsApp : 628 473 662. E-mail : info@elmudayyan.com. Disponibles 24h/24 et 7j/7. Écrire sur WhatsApp →"
+    },
+    {
+     "q": "Organisez-vous des excursions à Albarracín ?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Oui : avec Excursiones Assafar, ils vous emmènent à Albarracín (à 36 km de Teruel), où une guide locale vous accueille, et l’on peut aussi v"
+    },
+    {
+     "q": "Combien coûte la nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 978 62 30 42 · +34 628 473 662 · info@elmudayyan.com."
+    },
+    {
+     "q": "Avez-vous une piscine ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 978 62 30 42 · +34 628 473 662 · info@elmudayyan.com."
+    }
+   ],
+   "chips": [
+    "Quelles chambres avez-vous ?",
+    "Avez-vous des chambres familiales ?",
+    "Y a-t-il un petit-déjeuner ?",
+    "Comment réserver ?"
+   ]
+  },
+  "de": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Welche Zimmer gibt es?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Es gibt 28 Zimmer in zwei Stilen, Mudéjar und Jugendstil: Doppelzimmer Standard (eine oder zwei Personen), Doppelzimmer Superior (zwei Erwac"
+    },
+    {
+     "q": "Wir reisen als Familie, gibt es Platz für vier?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Ja: Die Familienzimmer sind für drei oder vier Personen ausgestattet, Zimmer für fünf gibt es auf Anfrage. Sie sind barrierefrei für Persone"
+    },
+    {
+     "q": "Was bieten die Zimmer?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Alle Zimmer haben kostenloses WLAN, Klimaanlage, Minibar, Haartrockner, TV und eigenes Bad."
+    },
+    {
+     "q": "Gibt es Frühstück?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Ja: Es gibt ein kostenloses einfaches Frühstück (Kaffee und Toast oder Croissant), wenn Sie über die Website, per Telefon oder E-Mail buchen"
+    },
+    {
+     "q": "Kann man die mittelalterliche Galerie besichtigen?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Ja: Im Keller liegt eine archäologische Anlage aus dem XIV. Jahrhundert mit einem Gang, der das Haus des Priesters mit der Kirche El Salvado"
+    },
+    {
+     "q": "Haben Sie eine Teestube?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Das Hotel hat eine Teestube und ein Café mit großer Auswahl an Tees und Gebäck sowie private Räume für Meetings, Veranstaltungen und Feiern."
+    },
+    {
+     "q": "Wo kann ich parken?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Die Website nennt drei Möglichkeiten: die Parkhäuser Glorieta und San Juan (städtisch, überdacht und bewacht) und den Parkplatz an der RENFE"
+    },
+    {
+     "q": "Wo liegt das Hotel?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Das Hotel liegt in der Calle Nueva, 18, 44001 Teruel, mitten im historischen Zentrum, nahe der Plaza del Torico. Laut Website: Valencia 140 "
+    },
+    {
+     "q": "Wie kann ich buchen?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sie können über die Buchungsmaschine (Schaltfläche Buchen), telefonisch unter 978 62 30 42 oder per E-Mail buchen. Dieser Assistent bestätig"
+    },
+    {
+     "q": "Können Sie mir die Verfügbarkeit für morgen bestätigen?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sie können über die Buchungsmaschine (Schaltfläche Buchen), telefonisch unter 978 62 30 42 oder per E-Mail buchen. Dieser Assistent bestätig"
+    },
+    {
+     "q": "Wie sind die Stornobedingungen?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Laut Website ist eine schriftliche Stornierung bis 48 Stunden vor Anreise kostenlos; bei weniger als 48 Stunden wird eine Nacht berechnet (N"
+    },
+    {
+     "q": "Wie ist Ihre Telefonnummer?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Rezeption: 978 62 30 42. WhatsApp: 628 473 662. E-Mail: info@elmudayyan.com. Rund um die Uhr erreichbar (24/7). Per WhatsApp schreiben →"
+    },
+    {
+     "q": "Gibt es Ausflüge nach Albarracín?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Ja: Mit Excursiones Assafar geht es nach Albarracín (36 km von Teruel), wo eine örtliche Führerin wartet; auch Mora de Rubielos und Rubielos"
+    },
+    {
+     "q": "Was kostet eine Nacht?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 978 62 30 42 · +34 628 473 662 · info@elmudayyan.com."
+    },
+    {
+     "q": "Haben Sie einen Pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 978 62 30 42 · +34 628 473 662 · info@elmudayyan.com."
+    }
+   ],
+   "chips": [
+    "Welche Zimmer gibt es?",
+    "Haben Sie Familienzimmer?",
+    "Gibt es Frühstück?",
+    "Wie kann ich buchen?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}
