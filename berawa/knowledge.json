@@ -1,0 +1,584 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-hotel-el-mudayyan-teruel",
+ "source_site": "https://elmudayyan.com/",
+ "source_read_at": "2026-11-02T09:15:00+01:00",
+ "note": "Respuestas solo con datos publicados en la web del negocio. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "habitaciones",
+   "keys": {
+    "es": [
+     "habitaciones",
+     "tipos de habitacion",
+     "estandar",
+     "superior"
+    ],
+    "en": [
+     "rooms",
+     "room types",
+     "standard",
+     "superior"
+    ],
+    "fr": [
+     "chambres",
+     "types de chambre",
+     "standard",
+     "superieure"
+    ],
+    "de": [
+     "welche zimmer",
+     "zimmertyp",
+     "standard",
+     "superior"
+    ]
+   },
+   "a": {
+    "es": "Hay 28 habitaciones de dos estilos, mudéjar y modernista: doble estándar (una o dos personas), doble superior (dos adultos o dos adultos con un niño en cama supletoria) y familiar (tres o cuatro personas).",
+    "en": "There are 28 rooms in two styles, Mudéjar and Modernist: standard double (one or two guests), superior double (two adults or two adults with a child on an extra bed) and family room (three or four guests).",
+    "fr": "Il y a 28 chambres de deux styles, mudéjar et moderniste : double standard (une ou deux personnes), double supérieure (deux adultes ou deux adultes avec un enfant en lit d’appoint) et familiale (trois ou quatre personnes).",
+    "de": "Es gibt 28 Zimmer in zwei Stilen, Mudéjar und Jugendstil: Doppelzimmer Standard (eine oder zwei Personen), Doppelzimmer Superior (zwei Erwachsene oder zwei Erwachsene mit einem Kind im Zustellbett) und Familienzimmer (drei oder vier Personen)."
+   },
+   "sources": [
+    {
+     "url": "https://elmudayyan.com/",
+     "quote": "El hotel El Mudayyan cuenta con 28 acogedoras habitaciones de dos estilos diferentes: estilo mudéjar y estilo modernista"
+    },
+    {
+     "url": "https://elmudayyan.com/habitaciones/",
+     "quote": "Habitación doble estándar para una o dos personas"
+    },
+    {
+     "url": "https://elmudayyan.com/habitaciones/",
+     "quote": "Habitación doble superior para dos adultos o dos adultos con un niño (en cama supletoria)"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "familias",
+   "keys": {
+    "es": [
+     "familia",
+     "cuatro",
+     "nino",
+     "familiar"
+    ],
+    "en": [
+     "family",
+     "four",
+     "children",
+     "kids"
+    ],
+    "fr": [
+     "famille",
+     "quatre",
+     "enfant",
+     "familiale"
+    ],
+    "de": [
+     "familie",
+     "vier",
+     "kinder",
+     "familienzimmer"
+    ]
+   },
+   "a": {
+    "es": "Sí: las habitaciones familiares están equipadas para tres o cuatro personas, y bajo petición hay quíntuples. Están adaptadas a personas con movilidad reducida.",
+    "en": "Yes: family rooms are equipped for three or four guests, and rooms for five are available on request. They are adapted for guests with reduced mobility.",
+    "fr": "Oui : les chambres familiales sont équipées pour trois ou quatre personnes, et des chambres pour cinq sont possibles sur demande. Elles sont adaptées aux personnes à mobilité réduite.",
+    "de": "Ja: Die Familienzimmer sind für drei oder vier Personen ausgestattet, Zimmer für fünf gibt es auf Anfrage. Sie sind barrierefrei für Personen mit eingeschränkter Mobilität."
+   },
+   "sources": [
+    {
+     "url": "https://elmudayyan.com/habitaciones/",
+     "quote": "Habitación más amplia, equipada para tres o cuatro personas- Triples, cuádruples o quintuples (bajo petición)"
+    },
+    {
+     "url": "https://elmudayyan.com/habitaciones/",
+     "quote": "Adaptadas a personas con movilidad reducida"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "equipamiento",
+   "keys": {
+    "es": [
+     "wifi",
+     "aire acondicionado",
+     "minibar",
+     "secador",
+     "television",
+     "incluyen",
+     "tienen las habitaciones"
+    ],
+    "en": [
+     "wifi",
+     "air conditioning",
+     "minibar",
+     "hairdryer",
+     "include"
+    ],
+    "fr": [
+     "wifi",
+     "climatisation",
+     "minibar",
+     "seche-cheveux",
+     "comprennent"
+    ],
+    "de": [
+     "wlan",
+     "klimaanlage",
+     "minibar",
+     "haartrockner",
+     "bieten die zimmer"
+    ]
+   },
+   "a": {
+    "es": "Todas las habitaciones tienen wifi gratis, aire acondicionado, minibar, secador de pelo, TV y baño privado.",
+    "en": "All rooms have free wifi, air conditioning, a minibar, a hairdryer, TV and a private bathroom.",
+    "fr": "Toutes les chambres ont le wifi gratuit, la climatisation, un minibar, un sèche-cheveux, la TV et une salle de bains privée.",
+    "de": "Alle Zimmer haben kostenloses WLAN, Klimaanlage, Minibar, Haartrockner, TV und eigenes Bad."
+   },
+   "sources": [
+    {
+     "url": "https://elmudayyan.com/habitaciones/",
+     "quote": "Aire acondicionado en todas nuestras habitaciones"
+    },
+    {
+     "url": "https://elmudayyan.com/habitaciones/",
+     "quote": "Minibar surtido disponible en todas nuestras acogedoras habitaciones"
+    },
+    {
+     "url": "https://elmudayyan.com/hotel-en-teruel-centro/",
+     "quote": "Todas nuestras habitaciones están equipadas con cuarto de baño privado"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K04",
+   "topic": "desayuno",
+   "keys": {
+    "es": [
+     "desayuno",
+     "desayunar"
+    ],
+    "en": [
+     "breakfast"
+    ],
+    "fr": [
+     "petit-dejeuner",
+     "petit dejeuner"
+    ],
+    "de": [
+     "fruhstuck"
+    ]
+   },
+   "a": {
+    "es": "Sí: hay desayuno básico gratis (café y tostada o cruasán) si reservas en su web, por teléfono o por correo.",
+    "en": "Yes: there is a free basic breakfast (coffee and toast or a croissant) if you book on their website, by phone or by email.",
+    "fr": "Oui : un petit-déjeuner basique est offert (café et tartine ou croissant) si vous réservez sur leur site, par téléphone ou par e-mail.",
+    "de": "Ja: Es gibt ein kostenloses einfaches Frühstück (Kaffee und Toast oder Croissant), wenn Sie über die Website, per Telefon oder E-Mail buchen."
+   },
+   "sources": [
+    {
+     "url": "https://elmudayyan.com/",
+     "quote": "¡¡Desayuno básico gratis!! Café + tostada o croissant reservando por nuestra web, teléfono o email"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K05",
+   "topic": "galeria medieval",
+   "keys": {
+    "es": [
+     "galeria",
+     "medieval",
+     "pasadizo",
+     "arqueolog",
+     "historia"
+    ],
+    "en": [
+     "gallery",
+     "medieval",
+     "passage",
+     "archaeolog",
+     "history"
+    ],
+    "fr": [
+     "galerie",
+     "medieval",
+     "passage",
+     "archeolog",
+     "histoire"
+    ],
+    "de": [
+     "galerie",
+     "mittelalter",
+     "gang",
+     "archaolog",
+     "geschichte"
+    ]
+   },
+   "a": {
+    "es": "Sí: el sótano alberga un conjunto arqueológico del siglo XIV, con un pasadizo que unía la casa del sacerdote con la iglesia del Salvador. El hotel ofrece una visita guiada por la galería medieval.",
+    "en": "Yes: the basement holds a fourteenth-century (XIV) archaeological site, with a passage that linked the priest’s house to the church of El Salvador. The hotel offers a guided tour of the medieval gallery.",
+    "fr": "Oui : le sous-sol abrite un ensemble archéologique du XIVe siècle, avec un passage qui reliait la maison du prêtre à l’église du Salvador. L’hôtel propose une visite guidée de la galerie médiévale.",
+    "de": "Ja: Im Keller liegt eine archäologische Anlage aus dem XIV. Jahrhundert mit einem Gang, der das Haus des Priesters mit der Kirche El Salvador verband. Das Hotel bietet eine Führung durch die mittelalterliche Galerie an."
+   },
+   "sources": [
+    {
+     "url": "https://elmudayyan.com/",
+     "quote": "El sótano alberga un conjunto arqueológico que data del siglo XIV"
+    },
+    {
+     "url": "https://elmudayyan.com/",
+     "quote": "un pasadizo que conectaba en la Edad Media la casa del sacerdote con la iglesia del Salvador"
+    },
+    {
+     "url": "https://elmudayyan.com/servicios/",
+     "quote": "Visita guiada por la galería medieval"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K06",
+   "topic": "teteria",
+   "keys": {
+    "es": [
+     "teteria",
+     "cafeteria",
+     " te ",
+     "reunion",
+     "celebracion",
+     "sala"
+    ],
+    "en": [
+     "tea room",
+     "tea",
+     "cafe",
+     "meeting",
+     "celebration"
+    ],
+    "fr": [
+     "salon de the",
+     " the ",
+     "cafeteria",
+     "reunion",
+     "celebration"
+    ],
+    "de": [
+     "teestube",
+     " tee ",
+     "cafe",
+     "meeting",
+     "feier"
+    ]
+   },
+   "a": {
+    "es": "El hotel tiene tetería y cafetería, con gran variedad de tés y pastas, y salas privadas para reuniones, eventos y celebraciones.",
+    "en": "The hotel has a tea room and café with a wide variety of teas and pastries, and private rooms for meetings, events and celebrations.",
+    "fr": "L’hôtel a un salon de thé et une cafétéria, avec un grand choix de thés et de pâtisseries, et des salles privées pour réunions, événements et célébrations.",
+    "de": "Das Hotel hat eine Teestube und ein Café mit großer Auswahl an Tees und Gebäck sowie private Räume für Meetings, Veranstaltungen und Feiern."
+   },
+   "sources": [
+    {
+     "url": "https://elmudayyan.com/",
+     "quote": "Tetería-Cafetería Gran variedad de tés y pastas"
+    },
+    {
+     "url": "https://elmudayyan.com/servicios/",
+     "quote": "También podrás mantener tus reuniones, eventos y celebraciones en nuestras estancias"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "aparcar",
+   "keys": {
+    "es": [
+     "aparc",
+     "parking",
+     "coche"
+    ],
+    "en": [
+     "park",
+     "car "
+    ],
+    "fr": [
+     "garer",
+     "parking",
+     "stationn",
+     "voiture"
+    ],
+    "de": [
+     "parken",
+     "parkplatz",
+     " auto"
+    ]
+   },
+   "a": {
+    "es": "Su web propone tres opciones: los parkings de la Glorieta y de San Juan (municipales, cubiertos y vigilados) y el de la RENFE (descubierto, sin vigilancia y gratuito).",
+    "en": "Their website suggests three options: the Glorieta and San Juan car parks (municipal, covered and supervised) and the RENFE car park (open-air, unsupervised and free).",
+    "fr": "Leur site propose trois options : les parkings de la Glorieta et de San Juan (municipaux, couverts et surveillés) et celui de la RENFE (à ciel ouvert, non surveillé et gratuit).",
+    "de": "Die Website nennt drei Möglichkeiten: die Parkhäuser Glorieta und San Juan (städtisch, überdacht und bewacht) und den Parkplatz an der RENFE (offen, unbewacht und kostenlos)."
+   },
+   "sources": [
+    {
+     "url": "https://elmudayyan.com/contacto/",
+     "quote": "Hay tres opciones para aparcar: Parking de la Glorieta y parking de San Juan aparcamiento municipal cubierto con vigilancia"
+    },
+    {
+     "url": "https://elmudayyan.com/contacto/",
+     "quote": "Parking de la RENFE: aparcamiento no cubierto y sin vigilancia (Gratuito)"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K08",
+   "topic": "ubicacion",
+   "keys": {
+    "es": [
+     "donde",
+     "direccion",
+     "ubicacion",
+     "llegar",
+     "centro"
+    ],
+    "en": [
+     "where",
+     "address",
+     "location",
+     "get there"
+    ],
+    "fr": [
+     "ou etes",
+     "adresse",
+     "situe",
+     "venir"
+    ],
+    "de": [
+     "wo liegt",
+     "wo ist",
+     "adresse",
+     "anfahrt"
+    ]
+   },
+   "a": {
+    "es": "Está en la Calle Nueva, 18, 44001 Teruel, en pleno centro histórico, cerca de la Plaza del Torico. Su web indica distancias: Valencia a 140 km, Zaragoza a 170 km y Madrid a 300 km.",
+    "en": "It is at Calle Nueva, 18, 44001 Teruel, right in the historic centre, near Plaza del Torico. Their website gives distances: Valencia 140 km, Zaragoza 170 km and Madrid 300 km.",
+    "fr": "L’hôtel se trouve Calle Nueva, 18, 44001 Teruel, en plein centre historique, près de la Plaza del Torico. Leur site indique les distances : Valence à 140 km, Saragosse à 170 km et Madrid à 300 km.",
+    "de": "Das Hotel liegt in der Calle Nueva, 18, 44001 Teruel, mitten im historischen Zentrum, nahe der Plaza del Torico. Laut Website: Valencia 140 km, Zaragoza 170 km und Madrid 300 km entfernt."
+   },
+   "sources": [
+    {
+     "url": "https://elmudayyan.com/",
+     "quote": "Calle Nueva, 18 44001 Teruel"
+    },
+    {
+     "url": "https://elmudayyan.com/hotel-en-teruel-centro/",
+     "quote": "Situado cerca de la Plaza del Torico"
+    },
+    {
+     "url": "https://elmudayyan.com/contacto/",
+     "quote": "Desde Valencia (a 140 km) ver ruta Desde Zaragoza (a 170 km) ver ruta Desde Madrid (a 300 km)"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K09",
+   "topic": "reservar",
+   "keys": {
+    "es": [
+     "reserv",
+     "disponib",
+     "confirm"
+    ],
+    "en": [
+     "book",
+     "reserv",
+     "availab",
+     "confirm"
+    ],
+    "fr": [
+     "reserv",
+     "disponib",
+     "confirm"
+    ],
+    "de": [
+     "buch",
+     "reserv",
+     "verfugbar",
+     "bestatig"
+    ]
+   },
+   "a": {
+    "es": "Puedes reservar en su motor de reservas (botón Reservar), por teléfono en el 978 62 30 42 o por correo. Este asistente no confirma disponibilidad ni reservas.",
+    "en": "You can book through their booking engine (Book button), by phone on 978 62 30 42 or by email. This assistant does not confirm availability or bookings.",
+    "fr": "Vous pouvez réserver via leur moteur de réservation (bouton Réserver), par téléphone au 978 62 30 42 ou par e-mail. Cet assistant ne confirme ni disponibilité ni réservation.",
+    "de": "Sie können über die Buchungsmaschine (Schaltfläche Buchen), telefonisch unter 978 62 30 42 oder per E-Mail buchen. Dieser Assistent bestätigt weder Verfügbarkeit noch Buchungen."
+   },
+   "sources": [
+    {
+     "url": "https://elmudayyan.com/",
+     "quote": "Consulta disponibilidad y reserva tu habitación"
+    },
+    {
+     "url": "https://elmudayyan.com/contacto/",
+     "quote": "Recepción: 978 62 30 42"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K10",
+   "topic": "cancelacion",
+   "keys": {
+    "es": [
+     "cancel",
+     "anular"
+    ],
+    "en": [
+     "cancel"
+    ],
+    "fr": [
+     "annul"
+    ],
+    "de": [
+     "storn",
+     "absagen"
+    ]
+   },
+   "a": {
+    "es": "Según su web, se puede cancelar por escrito sin coste con 48 horas de antelación a la fecha de entrada; con menos de 48 horas se cobra una noche (No Show). Confírmalo al reservar.",
+    "en": "According to their website, you can cancel in writing free of charge up to 48 hours before arrival; with less than 48 hours, one night is charged (No Show). Please confirm it when you book.",
+    "fr": "Selon leur site, l’annulation par écrit est gratuite jusqu’à 48 heures avant l’arrivée ; à moins de 48 heures, une nuit est facturée (No Show). Confirmez-le lors de la réservation.",
+    "de": "Laut Website ist eine schriftliche Stornierung bis 48 Stunden vor Anreise kostenlos; bei weniger als 48 Stunden wird eine Nacht berechnet (No Show). Bitte bei der Buchung bestätigen."
+   },
+   "sources": [
+    {
+     "url": "https://elmudayyan.com/contacto/",
+     "quote": "pueden cancelar sus reservas por escrito con 48 horas de anticipación a la fecha de ingreso, sin costo"
+    },
+    {
+     "url": "https://elmudayyan.com/contacto/",
+     "quote": "lo que equivale a cobrar el valor de 1 noche de la habitación reservada"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K11",
+   "topic": "contacto",
+   "keys": {
+    "es": [
+     "telefono",
+     "correo",
+     "email",
+     "contacto",
+     "llamar",
+     "whatsapp"
+    ],
+    "en": [
+     "phone",
+     "email",
+     "contact",
+     "call",
+     "whatsapp"
+    ],
+    "fr": [
+     "telephone",
+     "courriel",
+     "email",
+     "contact",
+     "appeler",
+     "whatsapp"
+    ],
+    "de": [
+     "telefon",
+     "e-mail",
+     "email",
+     "kontakt",
+     "anrufen",
+     "whatsapp"
+    ]
+   },
+   "a": {
+    "es": "Recepción: 978 62 30 42. WhatsApp: 628 473 662. Correo: info@elmudayyan.com. Disponibles 24/7.",
+    "en": "Reception: 978 62 30 42. WhatsApp: 628 473 662. Email: info@elmudayyan.com. Available 24/7.",
+    "fr": "Réception : 978 62 30 42. WhatsApp : 628 473 662. E-mail : info@elmudayyan.com. Disponibles 24h/24 et 7j/7.",
+    "de": "Rezeption: 978 62 30 42. WhatsApp: 628 473 662. E-Mail: info@elmudayyan.com. Rund um die Uhr erreichbar (24/7)."
+   },
+   "sources": [
+    {
+     "url": "https://elmudayyan.com/contacto/",
+     "quote": "Recepción: 978 62 30 42 Whatsapp: 628 473 662"
+    },
+    {
+     "url": "https://elmudayyan.com/",
+     "quote": "info@elmudayyan.com"
+    },
+    {
+     "url": "https://elmudayyan.com/",
+     "quote": "DISPONIBLES 24/7"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K12",
+   "topic": "excursiones",
+   "keys": {
+    "es": [
+     "excursion",
+     "albarracin",
+     "mora de rubielos",
+     "rubielos"
+    ],
+    "en": [
+     "excursion",
+     "trip",
+     "albarracin",
+     "rubielos"
+    ],
+    "fr": [
+     "excursion",
+     "albarracin",
+     "rubielos"
+    ],
+    "de": [
+     "ausflug",
+     "albarracin",
+     "rubielos"
+    ]
+   },
+   "a": {
+    "es": "Sí: con Excursiones Assafar llevan a Albarracín (a 36 km de Teruel), donde recibe una guía local, y también se puede visitar Mora de Rubielos y Rubielos de Mora.",
+    "en": "Yes: with Excursiones Assafar they take you to Albarracín (36 km from Teruel), where a local guide meets you, and you can also visit Mora de Rubielos and Rubielos de Mora.",
+    "fr": "Oui : avec Excursiones Assafar, ils vous emmènent à Albarracín (à 36 km de Teruel), où une guide locale vous accueille, et l’on peut aussi visiter Mora de Rubielos et Rubielos de Mora.",
+    "de": "Ja: Mit Excursiones Assafar geht es nach Albarracín (36 km von Teruel), wo eine örtliche Führerin wartet; auch Mora de Rubielos und Rubielos de Mora lassen sich besuchen."
+   },
+   "sources": [
+    {
+     "url": "https://elmudayyan.com/servicios/",
+     "quote": "Con Excursiones Assafar te llevamos al pueblo más bonito de España: Albarracín. Situada a 36 km de Teruel"
+    },
+    {
+     "url": "https://elmudayyan.com/servicios/",
+     "quote": "También es posible visitar otra de las joyas de nuestra provincia: Mora de Rubielos y Rubielos de Mora"
+    }
+   ],
+   "cta": false
+  }
+ ]
+}

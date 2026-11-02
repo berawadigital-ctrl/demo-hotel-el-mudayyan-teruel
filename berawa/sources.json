@@ -1,0 +1,39 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://elmudayyan.com/",
+ "read_at": "2026-11-02T09:15:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://elmudayyan.com/",
+   "sha256": "dd37a09cfc8680427d94ba8ff883ea7596b80911380d7d78cb1a2a5ba8a910ec",
+   "chars": 2638
+  },
+  {
+   "url": "https://elmudayyan.com/contacto/",
+   "sha256": "a397c7114ebaa37a1e17bab1eb3930f0160bd15fa0ef9d65b7fbd86b09769eb0",
+   "chars": 2019
+  },
+  {
+   "url": "https://elmudayyan.com/habitaciones/",
+   "sha256": "5967be1848210936d0a09bc3a97b6e74ed314fb53b9ffb34e42f1fddfa1c4e4c",
+   "chars": 1680
+  },
+  {
+   "url": "https://elmudayyan.com/hotel-en-teruel-centro/",
+   "sha256": "c4eebf7c8b1a875f64255b4cab7ac3fe25900c4c30052a08e5f889f597d2b287",
+   "chars": 4118
+  },
+  {
+   "url": "https://elmudayyan.com/servicios/",
+   "sha256": "991d1970534713be7ee39baf7c2450c42ddbb2db042eb3bc4456a4f10859cd7d",
+   "chars": 2472
+  }
+ ],
+ "other_pages_read": [
+  "https://elmudayyan.com/aviso-legal/",
+  "https://elmudayyan.com/declaracion-de-accesibilidad/",
+  "https://elmudayyan.com/politica-privacidad/",
+  "https://elmudayyan.com/que-ver-en-teruel-capital/"
+ ]
+}
